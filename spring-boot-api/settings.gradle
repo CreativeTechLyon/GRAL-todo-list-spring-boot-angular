@@ -1,1 +1,3 @@
 rootProject.name = 'spring-boot-api'
+
+include 'spring-boot-api', ':shared'
